@@ -28,10 +28,10 @@ revolut-ui/
 ```
 
 ## Development introduction
-1. Using Vite as the dev and package tool, because it's fast and popular, as there was no SSR requirements,we don't need Next.js cause it's a little complex to deploy than vite. 
-2. Using Typescript & React to implement the js logic.
-3. As for style,I choose tailwindcss,it's convenient and easy to use.
-4. I have to write css for modifying Swiper's css, further more, I imported SASS to deal with it.
+1. Using **Vite** as the dev and package tool, because it's fast and popular, as there was no SSR requirements,we don't need Next.js cause it's a little complex to deploy than vite. 
+2. Using **Typescript** & **React** to implement the js logic.
+3. As for style,I choose [Tailwindcss](https://github.com/bruceg7333/revolut-demo),it's convenient and easy to use.
+4. I have to write css for modifying **Swiper**'s css, further more, I imported **SASS** to deal with it.
 
 
 
