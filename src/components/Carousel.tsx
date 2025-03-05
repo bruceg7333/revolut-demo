@@ -2,7 +2,6 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import Card from './Card';
 import 'swiper/swiper-bundle.css';
-import 'swiper/css/pagination';
 import '../styles/carousel.scss'
 import { Pagination } from 'swiper/modules';
 
